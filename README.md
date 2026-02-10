@@ -3,8 +3,10 @@ It is my all-dump activities performed during the journey of learning of web dev
 
 # Problem-1
 It is a video and audio player designed just by the usage of HTML.
+<br>
 It contains tag spaces and inline commit lines for addition of video tags as per the need.
 
 # Test file
 It is a file that I am currently working on to test my css learning as per the curated data from tutorials and hands-on experience.
+<br>
 It contains external css file with multifunctional variables.
