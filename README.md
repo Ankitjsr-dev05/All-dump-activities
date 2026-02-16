@@ -10,3 +10,8 @@ It contains tag spaces and inline commit lines for addition of video tags as per
 It is a file that I am currently working on to test my css learning as per the curated data from tutorials and hands-on experience.
 <br>
 It contains external css file with multifunctional variables.
+
+# Test file 2
+It is a file that I have made to check my skills in CSS designing through a color assignment task.
+<br>
+It contains external css file with color names in it.
